@@ -1,0 +1,10 @@
+:root{
+    /* text color */
+    --text-color: #48555B;
+    /* span color */
+    --span-color: #16ACE8;
+    /* white text */
+    --text-white: #fff;
+    /* hover text */
+    --hover-text: #00A4E5;
+}
